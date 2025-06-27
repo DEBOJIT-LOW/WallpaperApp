@@ -18,7 +18,7 @@ A desktop automation app built with Python that updates your Windows wallpaper d
 
 ## 📦 Tech Stack
 
-- Python 3.12+
+- Python 3.12.3
 - `requests` – for fetching quotes and images
 - `Pillow` – image processing and drawing
 - `Tkinter` – for the GUI
